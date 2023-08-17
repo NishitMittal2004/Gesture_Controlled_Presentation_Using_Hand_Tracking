@@ -1,1 +1,1 @@
-# Gesture_Controlled_Presentation_Using_Hand_Tracking
+# Gesture Controlled Presentation using Hand Tracking
